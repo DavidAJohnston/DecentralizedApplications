@@ -8,7 +8,7 @@ By David Johnston, Steven Mason, Farzad&nbsp;Hashemi, Ron Gross, and Sam Yilmaz
 
 A new model for building successful and massively scalable applications is emerging. Bitcoin led the way with its open-source, peer-to-peer nature, cryptographically-stored records (blockchain), and limited number of tokens to power the use of its features.
 
-Now [hundreds of additional applications](https://en.bitcoin.it/wiki/List_of_Decentralized_Autonomous_Corporations) are adopting this model for success including [BitShares][1], Mastercoin, and Meshcoin&nbsp;just to name a few.
+Now [hundreds of additional applications](https://en.bitcoin.it/wiki/List_of_Decentralized_Autonomous_Corporations) are adopting this model for success including [BitShares][1], [Mastercoin](http://www.mastercoin.org/), and Meshcoin&nbsp;just to name a few.
 
 There are a variety of methods being used to build these “Decentralized Applications”, some create their own blockchains, in some cases they work symbiotically on top of an existing blockchain with their own tokens, and others operate at two layers above the blockchain with their own tokens.
 
@@ -30,7 +30,7 @@ Finally this paper will postulate that these Decentralized Applications will one
 4. Types of Decentralized Applications:
 	- Type I
 	- Type II
-	- Type II
+	- Type III
 	- Quantity and Distribution of Types
 5. Establishing Consensus
 	- Proof of Work
