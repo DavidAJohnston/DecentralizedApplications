@@ -73,7 +73,7 @@ Section C. - Etymology - Decentralized Applications part of a larger framework.
 
 Bitcoin is sometimes termed as a cryptocurrency though one can also say Bitcoin is a protocol; developers at [Invictus Innovations](http://invictus-innovations.com/) have described Bitcoin as a “Distributed Autonomous Corporation[[1]][2]” while its creator himself, Satoshi Nakamoto, described it in his white paper as “A Peer-to-Peer Electronic Cash System[[2]][3]”.
 
-This paper makes the case that Bitcoin and a rapidly growing number of projects in the Bitcoin eco-system may be best classified as “Decentralized Applications” (DApps for short or informal use).
+This paper makes the case that Bitcoin and a rapidly growing number of projects in the Bitcoin eco-system may be best classified as “Decentralized Applications” (known as "DApps" for short or informal use).
 
 ### 2\. Separating Description of Utility From Classification
 
