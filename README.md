@@ -118,14 +118,14 @@ protocols and have tokens that are necessary for their function. The
 Master Protocol is an example of a type II decentralized application.
 
 **Type III** decentralized applications use the protocol of a type II
-decentralized application. Type II decentralized applications are
+decentralized application. Type III decentralized applications are
 protocols and have tokens that are necessary for their function. A
 hypothetical Cloud Protocol that uses the Master Protocol to issue
 'cloudcoins' that can be used to acquire cloud computing services would be an example of a type III decentralized application.
 
 A useful analogy for a type I DA is a computer operating system (like Windows, Mac OS X, Linux, Android, iOS) for a type II DA a general purpose
 software program (like a word processor, a spreadsheet software, a file
-synchronization system such as Dropbox) and for type II DA, a
+synchronization system such as Dropbox) and for type III DA, a
 specialized software solution (like a mail-merge tool that uses a word
 processor, an expense report macro that uses a spreadsheet, or a
 blogging platform that uses Dropbox.) Using this analogy, it may be
