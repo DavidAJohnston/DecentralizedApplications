@@ -4,20 +4,20 @@ The Emerging Wave of Decentralized Applications
 Table of Contents
 -----------------
 
-1.   Introduction
-    1.  The emergence of decentralized applications
-    2.  Definition of a decentralized application
-    3.  Bitcoin as a decentralized application
-    4.  Nomenclature and its importance
-    5.  Classification of decentralized applications
-2.   The operation of a decentralized application
-    1.   Mechanisms for establishing consensus
-    2.   Mechanisms for distributing tokens
-    3.   Formation and development of a decentralized application
-3.   The current state of type II and III decentralized applications
-4.   Conclusion
-4.   Appendix
-    1.   A proposed metaphor for decentralized applications
+1.   [Introduction](#introduction)
+    1.  [The emergence of decentralized applications](#the-emergence-of-decentralized-applications)
+    2.  [Definition of a decentralized application](#definition-of-a-decentralized-application)
+    3.  [Bitcoin as a decentralized application](#bitcoin-as-a-decentralized-application)
+    4.  [Nomenclature and its importance](#nomenclature-and-its-importance)
+    5.  [Classification of decentralized applications](#classification-of-decentralized-applications)
+2.   [The operation of a decentralized application](#the-operation-of-a-decentralized-application)
+    1.   [Mechanisms for establishing consensus](#mechanisms-for-establishing-consensus)
+    2.   [Mechanisms for distributing tokens](#mechanisms-for-distributing-tokens)
+    3.   [Formation and development of a decentralized application](#formation-and-development-of-a-decentralized-application)
+3.   [The current state of type II and III decentralized applications](#the-current-state-of-type-ii-and-iii-decentralized-applications)
+4.   [Conclusion](#conclusion)
+4.   [Appendix](#appendix)
+    1.   [A proposed metaphor for decentralized applications](#a-proposed-metaphor-for-decentralized-applications)
 
 Introduction
 ------------
