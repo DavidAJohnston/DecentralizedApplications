@@ -22,11 +22,7 @@ Table of Contents
     
 Authors
 ------------
-David Johnston
-Sam Onat Yilmaz
-Jeremy Kandah
-Farzad Hashemi
-Steven Mason
+David Johnston, Sam Onat Yilmaz, Jeremy Kandah, Farzad Hashemi, and Steven Mason
 
 
 Introduction
