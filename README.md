@@ -21,6 +21,7 @@ Table of Contents
     2.   DApp Economic Model
     3.   DApp Legal Model 
     4.   A proposed metaphor for decentralized applications
+    5.   Johnston's Law
     
 Authors
 ------------
@@ -260,7 +261,7 @@ Conclusion
 ----------
 
 DApps have the potential to become self-sustaining because they empower
-their stakeholders to invest in the development of the DA.  Because of that, it is conceivable that DAs for payments, social networking, and cloud computing may one day surpass the valuation of multinational corporations like Western Union, Visa, Facebook, Google, and Amazon that are are currently active in the space.
+their stakeholders to invest in the development of the DApp.  Because of that, it is conceivable that DApps for payments, data storage, bandwidth and cloud computing may one day surpass the valuation of multinational corporations like Visa, Dropbox, Comcast, and Amazon that are are currently active in the space.
 
 * * * * *
 
@@ -377,3 +378,11 @@ Such a metaphor could be a [zygote](http://en.wikipedia.org/wiki/Zygote). A zygo
 
 Terms that could created out of the term zygote include *zyprotocol*, the zygotic protocol, *zapp*, the zygotic application, *zen*, the zygotic entity, and *zybit*, the zygotic bit.
 
+Appendix 5
+--------
+### Johnston's Law
+======================================================
+
+"Everything that can be decentralized, will be decentralized". David A. Johnston
+
+Based on the economic and efficiency advantages of decentralized applications its clear that existing centralized services will be displaced over time by decentralized alterantives. This shift is likely to come most quickly for services in which the network effect advantages of Metcalfe's Law are most critical to the success of the service provider.
