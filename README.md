@@ -1,4 +1,4 @@
-The Emerging Wave of Decentralized Applications "DApps"
+The General Theory of Decentralized Applications "DApps"
 ===============================================
 
 Table of Contents
