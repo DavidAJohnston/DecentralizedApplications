@@ -17,8 +17,10 @@ Table of Contents
 3.   The current state of type II and III decentralized applications
 4.   Conclusion
 4.   Appendix
-    1.   Decentralized Application (DApp) Business Model
-    2.   A proposed metaphor for decentralized applications
+    1.   DApp Best Practices
+    2.   DApp Economic Model
+    3.   DApp Legal Model 
+    4.   A proposed metaphor for decentralized applications
     
 Authors
 ------------
@@ -264,27 +266,14 @@ their stakeholders to invest in the development of the DA.  Because of that, it 
 
 Appendix 1
 --------
-Decentralized Application (DApp) Best Practices and Economic Model
-========================================
+DApp Best Practices
+================================================
 
 ### What qualifies a project as a Decentralized Application?
 
 1.  The application must be completely open-source, it must operate autonomously, with no entity controlling the majority of its tokens, and its data and records of operation must be cryptographically stored in a public, decentralized block chain.
 2.  The application must generate tokens according to a standard algorithm or set of criteria and possibly distribute some or all of its tokens at the beginning of its operation. These tokens must be necessary for the use of the application and any contribution from users should be rewarded by payment in the application's tokens.
 3.  The application may adapt its protocol in response to proposed improvements and market feedback but all changes must be decided by majority consensus of its users.
-
-### What is the legal entity and what do they do?
-
-There are no other legal entities required.  Owners of tokens do not need to be represented by a corporation.  A contributor to the development of the project does not require any specific legal entity either.
-
-Token issuance is some times done by a non-profit (or a non-profit is formed to assist with the development of the open source software) which contributes to the development of the code.  This non-profit will never receive financial benefits from the software and may have the following responsibilities:
-
-1.  Issuance of initial tokens
-2.  Holding of developer tokens
-3.  Managing bounty payments 
-4.  Setting the direction of the project to be developed
-
-The non-profit can make decisions fully decentralized allowing a “proof of stake” voting mechanism to determine any decision.
 
 ### What does the coin issuance look like?
 
@@ -330,6 +319,52 @@ A User Behavior reward is given to contributors that provide utility to the netw
 
 
 Appendix 2
+--------
+DApp Economic Model
+===============================================
+
+"In fact there is a strong correlation (R2 = 0.82) between number of users and price. All these things are not understood by too many people, unfortunately. Also the price doesn't grow linearly with the number of users but instead with the power of 1.45 of the number of users. That is nice because for the price to increase 1000 times you need only 140 times the number of users of today. We have about 2 million BTC users." https://i.imgur.com/CiOxeBY.jpg
+
+"Here a comparison between Metcalfe's, Zipf's and Bitcoin's law."
+https://i.imgur.com/AWEfTjZ.jpg
+
+Credit for images and quote gsantostasi via http://www.reddit.com/r/Bitcoin/comments/21pujs/bitcoin_compared_with_metcalfes_and_zipfs_law/
+
+The value of a particular DApp is corrilated well to Metcalfe's Law as this graph demonstrates: http://imgur.com/RDPz54G
+
+Credit for image Peter R via Bitcointalk https://bitcointalk.org/index.php?topic=400235.msg5882283#msg5882283
+
+
+Appendix 3
+--------
+DApp Legal Model
+===============================================
+### Open Source Licensing
+
+DApps operate under a open source license for access to their software. Bitcoin for example operates under the MIT license.  
+
+### What is the legal entity and what do they do?
+
+There are no other legal entities required as the Decentralized Application is not operating as a company.  Owners of tokens do not need to be represented by a corporation.  A contributor to the development of the project does not require any specific legal entity either.
+
+Token issuance is some times done by a non-profit (or a non-profit is formed to assist with the development of the open source software) which contributes to the development of the code.  This non-profit will never receive financial benefits from the software and may have the following responsibilities:
+
+1.  Issuance of initial tokens
+2.  Holding of developer tokens
+3.  Managing bounty payments 
+4.  Setting the direction of the project to be developed
+
+The non-profit can make decisions fully decentralized allowing a “proof of stake” voting mechanism to determine any decision.
+
+### How is the issing of tokens viewed legally.
+
+Few jurisdications have yet publically given their guidance on how Decentralized Applications issuing tokens will be treated from a regulatory and tax perspective. The best advice is to contact a legal expert in the particular jurisdiction in which the user of the token operates. 
+
+From a technical perspective those issuing tokens as part of a crowd sale is selling access to software for the users of that software. The private keys associated with the tokens users purchase during a crowd sale are in a very literal sense the passwords for that user to be able to access that particular Decentralized Application's software.
+
+From a tax perspective those users holding tokens may be said to be holding digital property. However if the token has no market outside of its use in the Decentralzied Application it is hard to determine the actual value of said token.
+
+Appendix 4
 --------
 
 ### A proposed metaphor for decentralized applications
