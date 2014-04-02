@@ -1,4 +1,4 @@
-The Emerging Wave of Decentralized Applications
+The Emerging Wave of Decentralized Applications "DApps"
 ===============================================
 
 Table of Contents
@@ -37,12 +37,12 @@ number of tokens that power the use of its features. Several
 [applications](https://en.bitcoin.it/wiki/List_of_Decentralized_Autonomous_Corporations)
 are adopting the Bitcoin model in order to succeed.
 [BitShares](https://docs.google.com/document/d/1RLcjSXWuU9vBJzzqLEXVACSCdn8zXKTTJRN_LfoCjNY/edit),
-[Mastercoin](http://www.mastercoin.org/) and Meshcoin are just a few of
+[Mastercoin](http://www.mastercoin.org/) and Open Garden are just a few of
 those "decentralized applications" that use a variety of methods to
 operate. Some use their own block chain (BitShares), some use existing
 block chains and issue their own tokens (Master Protocol and
 Mastercoin), and others operate at two layers above an existing block
-chain and issue their own tokens (Meshcoin).
+chain and issue their own tokens (OpenGarden).
 
 This paper describes why decentralized applications have the potential
 to be immensely successful, how the different types of decentralized
@@ -53,9 +53,9 @@ largest software corporations in utility, user-base, and network
 valuation due to their superior incentivization structure, flexibility,
 transparency, resiliency, and distributed nature.
 
-### Definition of a decentralized application
+### Definition of a decentralized application "DApp"
 
-For an application to be considered a DA, it must meet the following
+For an application to be considered a "DApp", it must meet the following
 criteria:
 
 1.  The application must be completely
@@ -100,9 +100,9 @@ a decentralized application. Here is why:
 
 Decentralized applications were initially described as Decentralized Autonomous Corporations, DAC, in an article written by Daniel Larimer, of Invictus Innovations. This papers avoids the term corporation for two reasons.
 
-First, because it carries with it unnecessary preconceptions. For instance, a corporation is established in a jurisdiction, it has shares, a CEO, employees, etc. DAs, like Bitcoin, have none of these characteristics. In addition, the narrative is very important for the way DAs are perceived by various nations and jurisdictions. The same way that governments struggle to learn and regulate Bitcoin because the concept of currency is associated with it, governments might be compelled to regulate an open-source computer program that is a decentralized application.
+First, because it carries with it unnecessary preconceptions. For instance, a corporation is established in a jurisdiction, it has shares, a CEO, employees, etc. DApps, like Bitcoin, have none of these characteristics. In addition, the narrative is very important for the way DApps are perceived by various nations and jurisdictions. The same way that governments struggle to learn and regulate Bitcoin because the concept of currency is associated with it, governments might be compelled to regulate an open-source computer program that is a decentralized application.
 
-Second, because traditional corporations may engage in several techniques to raise capital (like selling shares of its stock and pay dividends or borrowing against its stock and pay interest) that a DA does not need. The concept of a DA is so powerful and elegant, because it does not include  these traditional corporate techniques. The ownership of the DA's tokens is all that is required for the holder to use the system. It's that simple. The value of the tokens is determined by how much people value the application. All the incentives, all the monetization, all the qys to raise capital are built into this beautifully simple structure. DAs are not required to recreate the functions that used to be necessary in centralized
+Second, because traditional corporations may engage in several techniques to raise capital (like selling shares of its stock and pay dividends or borrowing against its stock and pay interest) that a DApp does not need. The concept of a DApp is so powerful and elegant, because it does not include  these traditional corporate techniques. The ownership of the DApp's tokens is all that is required for the holder to use the system. It's that simple. The value of the tokens is determined by how much people value the application. All the incentives, all the monetization, all the qys to raise capital are built into this beautifully simple structure. DApps are not required to recreate the functions that used to be necessary in centralized
 corporations in order to balance the power of shareholders and offer
 returns for investors and employees.
 
@@ -110,9 +110,9 @@ returns for investors and employees.
 
 There are several characteristics according to which decentralized
 applications can be classified. For the purposes of this paper, we will
-classify DAs based on whether they have their own block chain or they
-use the block chain of another DA. Based on this criterion, there
-are three types of DAs.
+classify DApps based on whether they have their own block chain or they
+use the block chain of another DApp. Based on this criterion, there
+are three types of DApps.
 
 **Type I** decentralized applications have their own block chain.
 Bitcoin is the most famous example of a type I decentralized application
@@ -129,17 +129,17 @@ protocols and have tokens that are necessary for their function. A
 hypothetical Cloud Protocol that uses the Master Protocol to issue
 'cloudcoins' that can be used to acquire cloud computing services would be an example of a type III decentralized application.
 
-A useful analogy for a type I DA is a computer operating system (like Windows, Mac OS X, Linux, Android, iOS) for a type II DA a general purpose
+A useful analogy for a type I DApp is a computer operating system (like Windows, Mac OS X, Linux, Android, iOS) for a type II DApp a general purpose
 software program (like a word processor, a spreadsheet software, a file
-synchronization system such as Dropbox) and for type III DA, a
+synchronization system such as Dropbox) and for type III DApp, a
 specialized software solution (like a mail-merge tool that uses a word
 processor, an expense report macro that uses a spreadsheet, or a
 blogging platform that uses Dropbox.) Using this analogy, it may be
 expected that due to network effects and the ecosystem surrounding each
-decentralized application, there will be a few type I DAs, more type II
-DAs and even more type III DAs.
+decentralized application, there will be a few type I DApps, more type II
+DApps and even more type III DApps.
 
-At this point, it is important to mention that there are currently several excellent open-source projects that leverage type I DAs. Colored coins and CoinJoin, for example, are based on the Bitcoin block chain and provide useful features to their users. These projects however cannot be classified as type II DAs, according to our definition, because they don't issue and manage a token. (The development and operation of these projects depends on donations instead.)
+At this point, it is important to mention that there are currently several excellent open-source projects that leverage type I DApps. Colored coins and CoinJoin, for example, are based on the Bitcoin block chain and provide useful features to their users. These projects however cannot be classified as type II DApps, according to our definition, because they don't issue and manage a token. (The development and operation of these projects depends on donations instead.)
 
 The operation of a decentralized application
 --------------------------------------------
@@ -149,19 +149,19 @@ The operation of a decentralized application
 There are two common mechanism by which DAs can etablish consensus: the **proof-of-work**, POW, mechanism and the **proof of stake**, POS,
 mechanism.
 
-With the proof-of-work mechanism, decisions about changes in a DA are
+With the proof-of-work mechanism, decisions about changes in a DApp are
 made based on the amount of work that each stakeholder contributes to
-the operation of the DA. Bitcoin uses that approach for its day-to-day
+the operation of the DApp. Bitcoin uses that approach for its day-to-day
 operation. The mechanism for establishing consensus through POW is commonly called mining.
 
-With the proof-of-stake mechanism, decisions about changes in the DA are
+With the proof-of-stake mechanism, decisions about changes in the DApp are
 made based on the percent ownership that various stakeholders have over
 the application. For instance, the vote of a stakeholder who controls
-10% of the tokens issued by a DA, carries a 10% weight. The Master
+10% of the tokens issued by a DApp, carries a 10% weight. The Master
 Protocol is based on the POS mechanism.
 
 The two mechanisms can be used in parallel, as is the case with
-[Peercoin](http://peercoin.net/). Such a combination allows a DA to
+[Peercoin](http://peercoin.net/). Such a combination allows a DApp to
 operate with less energy consumption than proof-of-work alone, and
 allows it to be more resistant to [51% attacks](https://en.bitcoin.it/wiki/Weaknesses).
 
@@ -171,13 +171,13 @@ There are three common mechanisms by which DAs can distribute their
 tokens: mining, fundraising and development.
 
 With the mining mechanism, tokens are distributed to those who
-contribute most work to the operation of a DA. Taking Bitcoin as an
+contribute most work to the operation of a DApp. Taking Bitcoin as an
 example, bitcoins are distributed through a predetermined algorithm to
 the miners that verify transactions and maintain the Bitcoin block
 chain.
 
 With the fundraising mechanism, tokens are distributed to those who fund
-the initial development of the DA. Taking the Master Protocol as an
+the initial development of the DApp. Taking the Master Protocol as an
 example, Mastercoins were initially distributed to those who sent
 bitcoins to a given address at the rate of 100 Mastercoins per bitcoin
 sent. The bitcoins collected were then used to fund the development of
@@ -185,7 +185,7 @@ applications that promoted the development of the Master Protocol.
 
 WIth the development mechanism, tokens are generated using a predefined mechanism and are only available for the development of the DA. For example, in addition to its fundraising mechanism, the Master Protocol used the collaboration mechanism to fund its future development. An additional 10% of the Mastercoins generated through fundraising was set aside for development of the Master Protocol. Those Mastercoins become available through a pre-derminded schedule and are distributed via a community-driven bounty system where decisions are made based on the proof-of-stake mechanism.
 
-To summarize: Tokens of a DA that establishes consensus through
+To summarize: Tokens of a DApp that establishes consensus through
 proof-of-work are distributed by mining, by people buying directly from
 miners and by trading for goods and services; that is the case with
 Bitcoin. Tokens of a DA that establishes consensus through
@@ -198,38 +198,38 @@ Master Protocol.
 
 Development of decentralized applications takes place in three steps.
 
-**Step 1: A whitepaper is published describing the DA and its features**
+**Step 1: A whitepaper is published describing the DApp and its features**
 
-As in the case of Bitcoin, the most common way by which a DA takes form
+As in the case of Bitcoin, the most common way by which a DApp takes form
 is by the public release of a whitepaper that describes the protocol, its
 features, and its implementation. After the public release, feedback
 from the community is necessary for the further development of the DA.
 
 **Step 2: Initial tokens are distributed**
 
-If the DA is using the mining mechanism to distribute its tokens, a
+If the DApp is using the mining mechanism to distribute its tokens, a
 reference software program is released so that it can be used for
 mining. In the case of Bitcoin, a reference software program was
 released and the initial transaction block was created.
 
-If the DA is using the fundraising mechanism, a wallet software 
-becomes available to the stakeholders of the DA, so that they can
+If the DApp is using the fundraising mechanism, a wallet software 
+becomes available to the stakeholders of the DApp, so that they can
 exchange the tokens of the DA. In the case of Mastercoin, an Exodus
 fundraising address and a wallet script were publicly released.
 
-If the DA is using the development mechanism, a bounty system is
+If the DApp is using the development mechanism, a bounty system is
 put in place that allows the suggestion of tasks to be performed, the
 tracking of the people who are working on those tasks and the criteria
 by which bounties can be awarded.
 
-**Step 3: The ownership stake of the DA is spread**
+**Step 3: The ownership stake of the DApp is spread**
 
 As tokens from mining, fundraising and collaboration are distributed to
 a greater number of participants, the ownership of the DA becomes less
 and less centralized and participants that held a majority stake at
 earlier have less and less control. As the DA matures, participants
 with more diverse skills are incentivized to make valuable
-contributions, and the ownership of the DA is distributed further. Through market forces the tokens of a DA are transferred to those who value it the most. Those individuals then can contribute to the development of the DA in the areas that they have an expertise.
+contributions, and the ownership of the DA is distributed further. Through market forces the tokens of a DApp are transferred to those who value it the most. Those individuals then can contribute to the development of the DA in the areas that they have an expertise.
 
 The case of Bitcoin illustrates the point. By some estimates, Satoshi Nakamoto mined many of the first 1,000,000 bitcoins. As developers contributed code to Bitcoin and miners contributed computational power to the Bitcoin network, the market began to value bitcoins more highly. As the system matured even more, people with diverse skills started valuing Bitcoin and contributing to its development. Now that more than 12 million bitcoins are in circulation and Satoshi Nakamoto's high original ownership stake has been diluted.
 
@@ -243,26 +243,28 @@ The current state of type II and III decentralized applications
 
 One mechanism by which type II DAs can leverage the block chain of type I DAs is for type II DAs to embed additional data to the transactions taking place in the type I DA. The Master Protocol, for instance, embeds additional data on the transactions of the Bitcoin network. Although currently (February 2014) additional data are embedded in an ad hoc way into the Bitcoin block chain, the release of the 0.9 version of the Bitcoin reference client will provide a standard method for that embedding. By using the methodology of "provably prune-able outputs," type II decentralized applications that are based on Bitcoin will be able to embed data in a systematic way and Bitcoin miners will have the option to prune those data. 
 
-Given this development, several type III DAs are set to be developed. They include:
+Given this development, several type III DApps are in various stages of developed and launch. They include:
 
-- cloudcoin, that provides Dropbox-like cloud storage of files,
-- computecoin, that provides Amazon-Web-Services-like computing resources,
-- meshcon, that provides mesh network-based Internet service,
-- healthcoin, that provides insurance services and loss reimbursements,
-- arbitrationcoin, that provides trust-less arbitration,
-- AIcoin, that provides intelligent and automatic task execution.
+- MaidSafe provides a "proof of resource" mechanism & decentralized data structure for storing files privately or publicly in the cloud, 
+- StorJ provides a front end Dropbox-like cloud storage of files utalizing MaidSafe and other systems in the backend,
+- Ethereum provides concensus based scripting and computing resources,
+- OpenGarden provides mesh network-based Internet service,
+- Scalion provides a incentivized version of the Tor Network with nodes serving as relays and exits,
+- Shared Miles provides a proof of transportation mechanism that allows for an open source transportation standard,
+- BlockAuth provides a multi signature OAuth type system for sharing private data with third parties, 
+- API Protocol provides an open source standard for hosting, normalizing, and sharing API data.
 
 Conclusion
 ----------
 
-DAs have the potential to become self-sustaining because they empower
+DApps have the potential to become self-sustaining because they empower
 their stakeholders to invest in the development of the DA.  Because of that, it is conceivable that DAs for payments, social networking, and cloud computing may one day surpass the valuation of multinational corporations like Western Union, Visa, Facebook, Google, and Amazon that are are currently active in the space.
 
 * * * * *
 
 Appendix 1
 --------
-Decentralized Application (DApp) Economic Model
+Decentralized Application (DApp) Best Practices and Economic Model
 ========================================
 
 ### What qualifies a project as a Decentralized Application?
@@ -313,12 +315,12 @@ Developing a DApp has the following steps:
   5.  Plans for managing developer bounties
   6.  Technical description of the project
 2.  Gain Community Engagement: Release the plan to the community and revising based on feedback.
-3.  Kickstarter (Crowsale): Sell the initial tokens based on the plan in the whitepaper.  Setting a date where anyone can contribute to the project.  At this time establishing a non-profit would be suggested.
+3.  Crowsale: Sell the initial tokens based on the plan in the whitepaper.  Setting a date where anyone can contribute to the project.  At this time establishing a non-profit would be suggested.
 4.  Begin Executing Plan: The non-profit will plan development
 
 ### Frequently Asked Questions:
 
-**How is this a profitable business model?**
+**How is this a profitable model for developers, users and contributors?**
 
 The model allows contributors to get involved with the project as purchaser of tokens, a project contributor or providing resources to the network for user behavior rewards.  All of these user groups can earn benefit as the tokens can be exchanged.  If the value of the token increases all parties are rewarded.
 
