@@ -4,35 +4,37 @@ The General Theory of Decentralized Applications, DApps
 Authors: David Johnston, Sam Onat Yilmaz, Jeremy Kandah, Nikos
 Bentenitis, Farzad Hashemi, Ron Gross, Shawn Wilkinson and Steven Mason
 
+Table of Contents
+-----------------
 
--   Introduction
-    -   The emergence of DApps
-    -   Definition of a DApp
-    -   Bitcoin as a DApp
-    -   Nomenclature and its importance
-    -   Classification of DApps
--   The operation of a DApp
-    -   Mechanisms for establishing consensus
-    -   Mechanisms for distributing tokens
-    -   Formation and development of a DApp
--   Legal model for the operation of DApps
-    -   Issuance and holding of tokens
-    -   Non-profit organization
--   Best practices for creating a DApp and Frequently Asked
+1.   Introduction
+    1.   The emergence of DApps
+    2.   Definition of a DApp
+    3.   Bitcoin as a DApp
+    4.   Nomenclature and its importance
+    5.   Classification of DApps
+2.   The operation of a DApp
+    1.   Mechanisms for establishing consensus
+    2.   Mechanisms for distributing tokens
+    3.   Formation and development of a DApp
+3.   Legal model for the operation of DApps
+    1.   Issuance and holding of tokens
+    2.   Non-profit organization
+4.   Best practices for creating a DApp and Frequently Asked
     Questions
-    -   What qualifies a software application as a DApp?
-    -   What is a token?
-    -   How do tokens get distributed?
-    -   How do I start developing a DApp?
-    -   Why is a DApp a profitable model for developers, users and
+    1.   What qualifies a software application as a DApp?
+    2.   What is a token?
+    3.   How do tokens get distributed?
+    4.   How do I start developing a DApp?
+    5.   Why is a DApp a profitable model for developers, users and
         contributors?
-    -   What is a user-behavior reward?
--   The current state of type II and III DApps
--   Conclusion
--   Appendix
-    -   Resources for an economic model of DApps
-    -   A proposed metaphor for DApps
-    -   Johnston’s Law
+    6.   What is a user-behavior reward?
+5.   The current state of type II and III DApps
+6.   Conclusion
+7.   Appendix
+    1.   Resources for an economic model of DApps
+    2.   A proposed metaphor for DApps
+    3.   Johnston’s Law
 
 
 
