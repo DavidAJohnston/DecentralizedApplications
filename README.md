@@ -1,5 +1,5 @@
-% The General Theory of Decentralized Applications, DApps
-% David Johnston, Sam Onat Yilmaz, Jeremy Kandah, Nikos Bentenitis, Farzad Hashemi, Ron Gross, Shawn Wilkinson and Steven Mason
+# The General Theory of Decentralized Applications, DApps
+Authors: David Johnston, Sam Onat Yilmaz, Jeremy Kandah, Nikos Bentenitis, Farzad Hashemi, Ron Gross, Shawn Wilkinson and Steven Mason
 
 ## Introduction
 
