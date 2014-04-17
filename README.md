@@ -101,11 +101,11 @@ a decentralized application. Here is why:
 
 ### Nomenclature and its importance
 
-Decentralized applications were initially described as Decentralized Autonomous Corporations, DAC, in an article written by Daniel Larimer, of Invictus Innovations. This papers avoids the term corporation for two reasons.
+Decentralized applications were initially described as Decentralized Autonomous Corporations, DAC, in an article written by Daniel Larimer of Invictus Innovations. This papers avoids the term corporation for two reasons.
 
 First, because it carries with it unnecessary preconceptions. For instance, a corporation is established in a jurisdiction, it has shares, a CEO, employees, etc. DApps, like Bitcoin, have none of these characteristics. In addition, the narrative is very important for the way DApps are perceived by various nations and jurisdictions. The same way that governments struggle to learn and regulate Bitcoin because the concept of currency is associated with it, governments might be compelled to regulate an open-source computer program that is a decentralized application.
 
-Second, because traditional corporations may engage in several techniques to raise capital (like selling shares of its stock and pay dividends or borrowing against its stock and pay interest) that a DApp does not need. The concept of a DApp is so powerful and elegant, because it does not include  these traditional corporate techniques. The ownership of the DApp's tokens is all that is required for the holder to use the system. It's that simple. The value of the tokens is determined by how much people value the application. All the incentives, all the monetization, all the qys to raise capital are built into this beautifully simple structure. DApps are not required to recreate the functions that used to be necessary in centralized
+Second, because traditional corporations may engage in several techniques to raise capital (like selling shares of its stock and pay dividends or borrowing against its stock and pay interest) that a DApp does not need. The concept of a DApp is so powerful and elegant, because it does not include  these traditional corporate techniques. The ownership of the DApp's tokens is all that is required for the holder to use the system. It's that simple. The value of the tokens is determined by how much people value the application. All the incentives, all the monetization, all the ways to raise capital are built into this beautifully simple structure. DApps are not required to recreate the functions that used to be necessary in centralized
 corporations in order to balance the power of shareholders and offer
 returns for investors and employees.
 
@@ -238,7 +238,7 @@ The case of Bitcoin illustrates the point. By some estimates, Satoshi Nakamoto m
 
 ### Legal model for the operation of decentralized applications
 
-Operating under open-source licenses allows DAs to be open for innovation without restrictions of copyright or patent. In addition, by being completely open-source, decentralized applications can operate under the legal model of open-source software. Bitcoin, for example, uses the MIT open-source software license. The Master Protocol similarly, requires all code that is based on it to be open-source and available to the
+Operating under open-source licenses allows DAs to be open for innovation without restrictions of copyright or patent. In addition, by being completely open-source, decentralized applications can operate under the legal model of open-source software. Bitcoin, for example, uses the MIT open-source software license. The Master Protocol requires all code that is based on it to be open-source and available to the
 community.
 
 The current state of type II and III decentralized applications
@@ -305,7 +305,7 @@ Developing a DApp has the following steps:
   5.  Plans for managing developer bounties
   6.  Technical description of the project
 2.  Gain Community Engagement: Release the plan to the community and revising based on feedback.
-3.  Crowsale: Sell the initial tokens based on the plan in the whitepaper.  Setting a date where anyone can contribute to the project.  At this time establishing a non-profit would be suggested.
+3.  Crowdsale: Sell the initial tokens based on the plan in the whitepaper.  Setting a date where anyone can contribute to the project.  At this time establishing a non-profit would be suggested.
 4.  Begin Executing Plan: The non-profit will plan development
 
 ### Frequently Asked Questions:
@@ -357,7 +357,7 @@ Token issuance is some times done by a non-profit (or a non-profit is formed to 
 
 The non-profit can make decisions fully decentralized allowing a “proof of stake” voting mechanism to determine any decision.
 
-### How is the issing of tokens viewed legally.
+### How is the issing of tokens viewed legally?
 
 Few jurisdications have yet publically given their guidance on how Decentralized Applications issuing tokens will be treated from a regulatory and tax perspective. The best advice is to contact a legal expert in the particular jurisdiction in which the user of the token operates. 
 
@@ -383,6 +383,6 @@ Appendix 5
 ### Johnston's Law
 ======================================================
 
-"Everything that can be decentralized, will be decentralized". David A. Johnston
+"Everything that can be decentralized, will be decentralized." David A. Johnston
 
 Based on the economic and efficiency advantages of decentralized applications its clear that existing centralized services will be displaced over time by decentralized alterantives. This shift is likely to come most quickly for services in which the network effect advantages of Metcalfe's Law are most critical to the success of the service provider.
