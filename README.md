@@ -538,3 +538,5 @@ displaced over time by decentralized alternatives. This shift is likely
 to come most quickly for services in which the network effect advantages
 of Metcalfe’s Law are most critical to the success of the service
 provider.
+
+http://www.johnstonslaw.org/
