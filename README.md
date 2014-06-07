@@ -13,6 +13,7 @@ Table of Contents
     3.   Bitcoin as a DApp
     4.   Nomenclature and its importance
     5.   Classification of DApps
+    6.   The value of DApps and their tokens
 2.   The operation of a DApp
     1.   Mechanisms for establishing consensus
     2.   Mechanisms for distributing tokens
@@ -186,6 +187,9 @@ chain and provide useful features to their users. These projects however
 cannot be classified as type II DApps, according to our definition,
 because they don’t issue and manage a token. (The development and
 operation of these projects depends on donations instead.)
+
+### The value of DApps and their tokens
+For a complete analysis about why tokens associated with DApps, and the networks powering the DApps are valuable, [see this paper](https://docs.google.com/document/d/1Qh0KIQpy3Ob070BKHNA82fYGL0atlGSfmKCKJpS-QH8/edit).
 
 The operation of a DApp
 -----------------------
