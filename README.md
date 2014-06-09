@@ -546,3 +546,9 @@ of Metcalfe’s Law are most critical to the success of the service
 provider.
 
 http://www.johnstonslaw.org/
+
+### More Links
+
+1. [Facebook Group](https://www.facebook.com/groups/appcoins)
+2. TBD - other social channels / skype group (need an admin for the skype group to get contact requests)
+3. 
