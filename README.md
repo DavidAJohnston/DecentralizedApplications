@@ -65,7 +65,7 @@ to be immensely successful, how the different types of decentralized
 applications can be classified, and introduces terminology that aims to
 be accurate and helpful to the community. Finally, this paper postulates
 that these decentralized applications will some day surpass the world’s
-largest software corporations in utility, user-base, and network
+largest software corporations in utility, user-base, efficiency, and network
 valuation due to their superior incentivization structure, flexibility,
 transparency, resiliency, and distributed nature.
 
@@ -191,7 +191,7 @@ because they don’t issue and manage a token. (The development and
 operation of these projects depends on donations instead.)
 
 ### The value of DApps and their tokens
-For a complete analysis about why tokens associated with DApps, and the networks powering the DApps are valuable, [see this paper](https://docs.google.com/document/d/1Qh0KIQpy3Ob070BKHNA82fYGL0atlGSfmKCKJpS-QH8/edit).
+For a complete analysis about why tokens associated with DApps, and the networks powering the DApps are valuable, [see this paper](https://github.com/DavidJohnstonCEO/TheValueofAppCoins).
 
 The operation of a DApp
 -----------------------
@@ -315,7 +315,7 @@ Operating under open-source licenses allows DApps to be open for
 innovation without restrictions of copyright or patent. In addition, by
 being completely open-source, decentralized applications can operate
 under the legal model of open-source software. Bitcoin, for example,
-uses the MIT open-source software license. The Master Protocol
+uses the [MIT open-source software license](http://opensource.org/licenses/MIT). The Master Protocol
 similarly, requires all code that is based on it to be open-source and
 available to the community.
 
@@ -450,7 +450,7 @@ The current state of type II and III DApps
 
 One mechanism by which type II DApps can leverage the block chain of
 type I DApps is by embedding additional data to the transactions taking
-place in the type I DA. The Master Protocol, for example, embeds
+place in the type I DApp. The Master Protocol, for example, embeds
 additional data on the transactions of the Bitcoin network. Although
 currently (February 2014) Mastercoin embeds its additional data in an
 ad-hoc way into the Bitcoin block chain, the release of the 0.9 version
