@@ -141,7 +141,7 @@ it does not include these traditional corporate techniques. The
 ownership of the DApp’s tokens is all that is required for the holder to
 use the system. It’s that simple. The value of the tokens is determined
 by how much people value the application. All the incentives, all the
-monetization, all the qys to raise capital are built into this
+monetization, all the ways to raise capital are built into this
 beautifully simple structure. DApps are not required to recreate the
 functions that used to be necessary in centralized corporations in order
 to balance the power of shareholders and offer returns for investors and
