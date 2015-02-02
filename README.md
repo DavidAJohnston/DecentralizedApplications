@@ -49,16 +49,14 @@ Introduction
 A new model for building successful and massively scalable applications
 is emerging. Bitcoin led the way with its open-source, peer-to-peer
 nature, cryptographically-stored records (block chain), and limited
-number of tokens that power the use of its features. Several
-[applications](https://en.bitcoin.it/wiki/List_of_Decentralized_Autonomous_Corporations)
-are adopting the Bitcoin model in order to succeed.
-[BitShares](https://docs.google.com/document/d/1RLcjSXWuU9vBJzzqLEXVACSCdn8zXKTTJRN_LfoCjNY/edit),
-[Mastercoin](http://www.mastercoin.org/) and Open Garden are just a few
+number of tokens that power the use of its features. In the last year
+dozens of applications are adopting the Bitcoin model in order to succeed.
+[Ethereum](https://www.ethereum.org/),
+[Omni](http://www.omnilayer.org/) and the [SAFE Network](http://maidsafe.net/) are just a few
 of those “decentralized applications” that use a variety of methods to
-operate. Some use their own block chain (BitShares), some use existing
-block chains and issue their own tokens (Master Protocol and
-Mastercoin), and others operate at two layers above an existing block
-chain and issue their own tokens (OpenGarden).
+operate. Some use their own block chain (Ethereum), some use existing
+blockchains and issue their own tokens (Omni Layer), and others operate at two layers above an existing block
+chain and issue their own tokens (SAFE Network).
 
 This paper describes why decentralized applications have the potential
 to be immensely successful, how the different types of decentralized
@@ -71,25 +69,28 @@ transparency, resiliency, and distributed nature.
 
 ### Definition of a Dapp
 
-For an application to be considered a Dapp, it must meet the following
-criteria:
+For an application to be considered a Dapp (pronounced Dee-app, similar to 
+Email) it must meet the following criteria:
 
 1.  The application must be completely
     [open-source](https://en.wikipedia.org/wiki/Open_source), it must
-    operate autonomously, with no entity controlling the majority of its
-    tokens, and its data and records of operation must be
-    cryptographically stored in a public, decentralized [block
-    chain](https://en.bitcoin.it/wiki/Block_chain).
-
-2.  The application must generate tokens according to a standard
-    algorithm or set of criteria and possibly distribute some or all of
-    its tokens at the beginning of its operation. These tokens must be
-    necessary for the use of the application and any contribution from
-    users should be rewarded by payment in the application’s tokens.
-
-3.  The application may adapt its protocol in response to proposed
+    operate autonomously, and with no entity controlling the majority of its
+    tokens. The application may adapt its protocol in response to proposed
     improvements and market feedback but all changes must be decided by
-    majority consensus of its users.
+    consensus of its users.
+
+2.  The application's data and records of operation must be
+    cryptographically stored in a public, decentralized 
+    [blockchain](https://en.bitcoin.it/wiki/Block_chain) in order to avoid 
+    any central points of failure.
+
+3.  The application must use a cryptographic token (bitcoin or a token native 
+    to its system) which is necessary for access to the application and any 
+    contribution of value from (miners / farmers) should be rewarded in the application’s tokens.
+
+4.  The application must generate tokens according to a standard crytptographic
+    algorithm acting as a proof of the value nodes are contributing to the application 
+    (Bitcoin uses the Proof of Work Algorithm).
 
 ### Bitcoin as a Dapp
 
