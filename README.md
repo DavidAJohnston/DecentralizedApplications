@@ -192,7 +192,7 @@ because they don’t issue and manage a token. (The development and
 operation of these projects depends on donations instead.)
 
 ### The value of Dapps and their tokens
-For a complete analysis about why tokens associated with Dapps, and the networks powering the Dapps are valuable, [see this paper](https://docs.google.com/document/d/1Qh0KIQpy3Ob070BKHNA82fYGL0atlGSfmKCKJpS-QH8/edit).
+For a complete analysis about why tokens associated with Dapps, and the networks powering the Dapps are valuable, [see this paper](https://github.com/DavidJohnstonCEO/TheValueofAppCoins).
 
 The operation of a Dapp
 -----------------------
