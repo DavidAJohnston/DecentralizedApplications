@@ -31,7 +31,7 @@ Table of Contents
     4. How do I start developing a Dapp?
     5. Why is a DApp a profitable model for developers, users and
        contributors?
-    6. What is a user-behavior reward? 
+    6. What is a user-behavior reward?
 5. The current state of type II and III Dapps
 6. Conclusion
 7. Appendix
