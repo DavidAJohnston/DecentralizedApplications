@@ -24,7 +24,7 @@ Table of Contents
     1. Issuance and holding of tokens
     2. Non-profit organization
 4. Best practices for creating a Dapp and Frequently Asked
-    Questions    
+    Questions
     1. What qualifies a software application as a Dapp?
     2. What is a token?
     3. How do tokens get distributed?
