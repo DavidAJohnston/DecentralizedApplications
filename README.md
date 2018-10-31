@@ -9,35 +9,35 @@ See also the previous version of this document [on Google Drive](https://docs.go
 Table of Contents
 -----------------
 
-1.   Introduction
-    1.   The emergence of Dapps
-    2.   Definition of a Dapp
-    3.   Bitcoin as a Dapp
-    4.   Nomenclature and its importance
-    5.   Classification of Dapps
-    6.   The value of Dapps and their tokens
-2.   The operation of a Dapp
-    1.   Mechanisms for establishing consensus
-    2.   Mechanisms for distributing tokens
-    3.   Formation and development of a Dapp
-3.   Legal model for the operation of Dapps
-    1.   Issuance and holding of tokens
-    2.   Non-profit organization
-4.   Best practices for creating a Dapp and Frequently Asked
-    Questions
-    1.   What qualifies a software application as a Dapp?
-    2.   What is a token?
-    3.   How do tokens get distributed?
-    4.   How do I start developing a Dapp?
-    5.   Why is a DApp a profitable model for developers, users and
-        contributors?
-    6.   What is a user-behavior reward?
-5.   The current state of type II and III Dapps
-6.   Conclusion
-7.   Appendix
-    1.   Resources for an economic model of Dapps
-    2.   A proposed metaphor for Dapps
-    3.   Johnston’s Law
+1. Introduction
+    1. The emergence of Dapps
+    2. Definition of a Dapp
+    3. Bitcoin as a Dapp
+    4. Nomenclature and its importance
+    5. Classification of Dapps
+    6. The value of Dapps and their tokens
+2. The operation of a Dapp
+    1. Mechanisms for establishing consensus
+    2. Mechanisms for distributing tokens
+    3. Formation and development of a Dapp
+3. Legal model for the operation of Dapps
+    1. Issuance and holding of tokens
+    2. Non-profit organization
+4. Best practices for creating a Dapp and Frequently Asked
+    Questions    
+    1. What qualifies a software application as a Dapp?
+    2. What is a token?
+    3. How do tokens get distributed?
+    4. How do I start developing a Dapp?
+    5. Why is a DApp a profitable model for developers, users and
+       contributors?
+    6. What is a user-behavior reward? 
+5. The current state of type II and III Dapps
+6. Conclusion
+7. Appendix
+    1. Resources for an economic model of Dapps
+    2. A proposed metaphor for Dapps
+    3. Johnston’s Law
 
 
 
