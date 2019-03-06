@@ -88,7 +88,7 @@ Email) it must meet the following criteria:
     to its system) which is necessary for access to the application and any 
     contribution of value from (miners / farmers) should be rewarded in the application’s tokens.
 
-4.  The application must generate tokens according to a standard crytptographic
+4.  The application must generate tokens according to a standard cryptographic
     algorithm acting as a proof of the value nodes are contributing to the application 
     (Bitcoin uses the Proof of Work Algorithm).
 
