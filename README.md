@@ -513,27 +513,6 @@ Appendix
     Law](http://imgur.com/RDPz54G). Credit for image [Peter
     R](https://bitcointalk.org/index.php?topic=400235.msg5882283#msg5882283).
 
-### A proposed metaphor for Dapps
-
-It would be beneficial to have a well-grounded and easily accessible
-metaphor for Dapps. Such a metaphor would ideally have the virtue of
-simplexity, so that it could be used for human-computer interfaces.
-
-Such a metaphor could be a
-[zygote](http://en.wikipedia.org/wiki/Zygote). A zygote is the point
-where one biological cell generation ends and the next one begins. A
-zygote acclimates, and it responds to the outside world without changing
-its genes, it cannot be regulated, it is stuck with its own genes and
-its recursive. The zygote is autonomous because it is stuck with its own
-genes, it is an application because it is a cell, it is distributed, and
-it is authorized to act as a single entity from other other cells; it
-shares, in other words many of the characteristics of a decentralized
-application.
-
-Terms that could created out of the term zygote include *zyprotocol*,
-the zygotic protocol, *zapp*, the zygotic application, *zen*, the
-zygotic entity, and *zybit*, the zygotic bit.
-
 ### Johnston’s Law
 
 “Everything that can be decentralized, will be decentralized”. David A.
@@ -547,9 +526,3 @@ of Metcalfe’s Law are most critical to the success of the service
 provider.
 
 http://www.johnstonslaw.org/
-
-### More Links
-
-1. [Facebook Group](https://www.facebook.com/groups/appcoins)
-2. TBD - other social channels / skype group (need an admin for the skype group to get contact requests)
-3. 
